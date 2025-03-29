@@ -87,7 +87,7 @@ with st.sidebar:
 
     st.write("### 🔗 **Useful Links**")
     st.markdown("[📖 Visit Source Website](https://medium.com/study-guide/career-paths-after-10th-and-12th-standard-30f069541c48)", unsafe_allow_html=True)
-    ##st.markdown("[📩 Contact Support](mailto:navyamehta.tech@gmail.com)", unsafe_allow_html=True)
+   
 
 st.title("📚 EduLLM - PERSONALISED EDUCATION PATHWAYS AND CURRICULUM GUIDANCE")
 
