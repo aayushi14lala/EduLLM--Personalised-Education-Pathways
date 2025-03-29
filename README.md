@@ -17,7 +17,8 @@ Key Technologies & Libraries
  🔹 Streamlit → Provides an interactive user interface for real-time conversations.
  
 
- <img width="959" alt="Screenshot 2025-03-29 111150" src="https://github.com/user-attachments/assets/572d76ba-2822-460e-81a4-059c10618bf6" />
+<img width="959" alt="Screenshot 2025-03-29 111150" src="https://github.com/user-attachments/assets/1deec13d-b8b3-41a5-9d65-87a76ebcf0e4" />
+
  
 How to deploy?
 
