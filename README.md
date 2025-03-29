@@ -42,6 +42,8 @@ Install requirements
 
 pip install -r requirements.txt
 
+Update API KEY
+
 Run streamlit
 
 streamlit run app.py
