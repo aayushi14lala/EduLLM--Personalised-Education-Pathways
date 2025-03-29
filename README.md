@@ -26,7 +26,7 @@ Key Technologies & Libraries
 
 
  
-How to deploy?
+How to run?
 
 Download the zip file
 
